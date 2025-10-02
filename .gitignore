@@ -15,6 +15,13 @@ out/
 .nuxt/
 .vuepress/dist
 
+# Vercel
+.vercel
+
+# Build scripts (keep the source files)
+# vercel-build.cjs
+# vercel-build.sh
+
 # Runtime data
 pids
 *.pid
